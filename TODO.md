@@ -6,5 +6,10 @@ Contact - Contact and that
 Details - How rooms look, price, what have/not ... remove footer multiple rooms
 Gallery - All photos of villa
 Guestbook - Guestbook with temp data
-page-404 - 404 page need to configure
+404 - 404 page need to configure
 Reservation - Reservation step by step
+
+
+
+CRON JOBS
+x/weather/weather.php?update (call this evry 60min)

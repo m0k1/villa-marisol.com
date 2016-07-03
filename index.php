@@ -11,7 +11,6 @@ include "includes/header.php";
                     <div class="slider-text">
                         <span class="slider-caption-sub slider-caption-sub-1">NEW bakery</span>
                         <h2 class="slider-caption slider-caption-1">bakery SALLAD</h2>
-                        <a href="#" class="awe-btn awe-btn-12 awe-btn-slider">VIEW NOW</a>
                     </div>
                 </div>
                 <!-- ITEM -->
@@ -21,20 +20,7 @@ include "includes/header.php";
                     <div class="slider-text">
                         <span class="slider-caption-sub slider-caption-sub-2">EARLY BOOKING BONUS SALE</span>
                         <h2 class="slider-caption slider-caption-2">SAVE <small>UP<br/>TO</small> 60%</h2>
-                        <a href="#" class="awe-btn awe-btn-default awe-btn-slider">VIEW NOW</a>
-                    </div>
-                </div>
-                <!-- ITEM -->
 
-                <!-- ITEM -->
-                <div class="slider-item text-center" data-image="images/slider/img-3.jpg">
-                    <div class="slider-text">
-                        <span class="slider-icon"><img src="images/icon-slider-1.png" alt=""></span><br>
-                        <span class="slider-caption-sub slider-caption-sub-3"><img src="images/icon-slider-4.png" alt=""> EACH HOTEL IS <img src="images/icon-slider-3.png" alt=""></span>
-                        <h2 class="slider-caption slider-caption-3">UNIQUE 60%</h2>
-                        <span class="slider-caption-sub slider-caption-sub-3">JUST LIKE YOU</span>
-                        <br>
-                        <span class="slider-icon"><img src="images/icon-slider-2.png" alt=""></span>
                     </div>
                 </div>
                 <!-- ITEM -->
@@ -53,7 +39,7 @@ include "includes/header.php";
                             <h2>CHECK AVAILABILITY</h2>
                         </div>
                         <div class="col-lg-9">
-                            <form id="ajax-form-search-room" action="http://envato.megadrupal.com/html/hillter/search_step_2.php" method="post">
+                            <form id="ajax-form-search-room" action="#" method="post">
                                 <div class="availability-form">
                                     <input type="text" name="arrive" class="awe-calendar from" placeholder="Arrival Date">
                                     <input type="text" name="departure" class="awe-calendar to" placeholder="Departure Date">
@@ -82,166 +68,6 @@ include "includes/header.php";
         </section>
         <!-- END / CHECK AVAILABILITY -->
 
-        <!-- ACCOMD ODATIONS -->
-        <section class="section-accomd awe-parallax bg-14">
-            <div class="awe-overlay"></div>
-
-            <div class="container">
-                <div class="accomd-modations">
-                    <div class="row">
-                        <div class="col-md-3">
-                            <div class="accomd-modations-header">
-                                <h2 class="heading">ACCOM MODATIONS</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing</p>
-                            </div>
-                        </div>
-                        <div class="col-md-8 col-md-offset-1">
-                            <div class="accomd-modations-content owl-single">
-
-                                <div class="row">
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-1.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Luxury Room</a></h2>
-                                                <p class="price">
-                                                    <span class="amout">$320</span>/days
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-2.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Family Room</a></h2>
-                                                <p class="price">
-                                                    <span class="amout">$320</span>/days
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-3.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Couple Room</a></h2>
-                                                <p class="price">
-                                                    <span class="amout">$320</span>/days
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-4.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Standard</a></h2>
-                                                <p class="price">
-                                                    <span class="amout">$320</span>/day
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                </div>
-
-                                <div class="row">
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-1.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Luxury Room</a></h2>
-                                                <p class="price">
-                                                    <span class="amout">$320</span>/days
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-2.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Family Room</a></h2>
-                                                <p class="price">
-                                                    <span class="amout">$320</span>/days
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-3.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Couple Room</a></h2>
-                                                <p class="price">
-                                                    <span class="amout">$320</span>/days
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-4.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Standard</a></h2>
-                                                <p class="price">
-                                                    <span class="amout">$320</span>/day
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </section>
-        <!-- END / ACCOMD ODATIONS -->
 
         <!-- ABOUT -->
         <section class="section-home-about bg-white">
@@ -371,17 +197,7 @@ include "includes/header.php";
             <div class="gallery  no-padding">
                 <h2 class="heading text-center">GALLERY</h2>
 
-                <!-- FILTER -->
-                <div class="gallery-cat text-center">
-                    <ul class="list-inline">
-                        <li class="active"><a href="#" data-filter="*">All</a></li>
-                        <li><a href="#" data-filter=".ground">HOTEL &amp; GROUND</a></li>
-                        <li><a href="#" data-filter=".suite">ROOM/SUITE </a></li>
-                        <li><a href="#" data-filter=".bathroom">BATHROOM</a></li>
-                        <li><a href="#" data-filter=".dining">DINING</a></li>
-                    </ul>
-                </div>
-                <!-- END / FILTER -->
+
 
                 <!-- GALLERY CONTENT -->
                 <div class="gallery-content">

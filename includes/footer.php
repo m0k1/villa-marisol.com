@@ -15,9 +15,9 @@
                                         <a href="#"><img src="images/logo-footer.png" alt=""></a>
                                     </div>
                                     <div class="text">
-                                        <p><i class="hillter-icon-location"></i> 225 Beach Street, Australian</p>
-                                        <p><i class="hillter-icon-phone"></i> 1-548-854-8898</p>
-                                        <p><i class="fa fa-envelope-o"></i> <a href="mailto:hillterhotel@gmail.com">hillterhotel@gmail.com</a></p>
+                                        <p><i class="hillter-icon-location"></i> Zrtava Fasizma 136, 85310 Budva, Montenegro</p>
+                                        <p><i class="hillter-icon-phone"></i> +38268303375</p>
+                                        <p><i class="fa fa-envelope-o"></i> <a href="mailto:office@villa-marisol.com">office@villa-marisol.com</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -25,24 +25,24 @@
 
                         <div class="col-xs-4 col-lg-2">
                             <div class="widget">
-                                <h4 class="widget-title">Page site</h4>
+                                <h4 class="widget-title">&nbsp;</h4>
                                 <ul>
-                                    <li><a href="#">Guest Book</a></li>
-                                    <li><a href="#">Gallery</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Event</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="details.php">Details</a></li>
+                                    <li><a href="gallery.php">Gallery</a></li>
                                 </ul>
                             </div>
                         </div>
 
                         <div class="col-xs-4 col-lg-2">
                             <div class="widget">
-                                <h4 class="widget-title">ABOUT</h4>
+                                <h4 class="widget-title">&nbsp;</h4>
                                 <ul>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">Comming Soon</a></li>
+                                    <li><a href="reservation-step-1.php">Reservation</a></li>
+                                    <li><a href="guestbook.php">Guest Book</a></li>
+                                    <li><a href="budva.php">Budva</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>

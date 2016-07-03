@@ -128,4 +128,4 @@ include "includes/header.php";
 
         </section>
         <!-- END / ATTRACTIONS -->
-        <?php include "include/footer.php"; ?>
+        <?php include "includes/footer.php"; ?>

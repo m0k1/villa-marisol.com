@@ -258,7 +258,7 @@ include "includes/header.php";
                                 <h2 class="heading">ABOUT US</h2>
                                 <span>Lorem Ipsum is simply dummy text</span>
                                 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source</p>
-                                <a href="#" class="awe-btn awe-btn-default">READ MORE</a>
+                                <a href="about.php" class="awe-btn awe-btn-default">READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -321,7 +321,7 @@ include "includes/header.php";
                             <div class="guestbook-header">
                                 <h2 class="heading">GUEST BOOK</h2>
                                 <p>Your feedback means the world to us.</p>
-                                <a href="#" class="awe-btn awe-btn-default">VIEW MORE</a>
+                                <a href="guestbook.php" class="awe-btn awe-btn-default">VIEW MORE</a>
                             </div>
                         </div>
 
@@ -364,158 +364,6 @@ include "includes/header.php";
         </section>
         <!-- END / HOME GUEST BOOK -->
 
-        <!-- HOME NEW -->
-        <section class="section-event-news bg-white">
-            <div class="container">
-
-                <div class="event-news">
-                    <div class="row">
-
-                        <!-- EVENT -->
-                        <div class="col-md-6">
-                            <div class="event">
-                                <h2 class="heading">EVENT &amp; DEAL</h2>
-                                <p>Lorem Ipsum is simply dummy text</p>
-
-                                <div class="row">
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-12 col-sm-12">
-                                        <div class="event-slide owl-single">
-
-                                            <div class="event-item">
-                                                <div class="img">
-                                                    <a href="#">
-                                                        <img src="images/home/eventdeal/img-1.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-
-                                            <div class="event-item">
-                                                <div class="img">
-                                                    <a href="#">
-                                                        <img src="images/home/eventdeal/img-1.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="event-item">
-                                            <div class="img">
-                                                <a href="#">
-                                                    <img src="images/home/eventdeal/img-2.jpg" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="text">
-                                                <div class="text-cn">
-                                                    <h2>SAVE THE DATE</h2>
-                                                    <span>BECCA &amp; ROBERT</span>
-                                                    <a href="#" class="awe-btn awe-btn-12">VIEW MORE</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-xs-6">
-                                        <div class="event-item">
-                                            <div class="img">
-                                                <a href="#">
-                                                    <img src="images/home/eventdeal/img-3.jpg" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="text">
-                                                <div class="text-cn">
-                                                    <h2>GO ON BEACH. HILLTER </h2>
-                                                    <a href="#" class="awe-btn awe-btn-12">VIEW MORE</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                </div>
-                            </div>
-                        </div>
-                        <!-- END / EVENT -->
-
-                        <!-- NEWS -->
-                        <div class="col-md-6">
-                            <div class="news">
-                                <h2 class="heading">NEWS</h2>
-                                <p>Lorem Ipsum is simply dummy</p>
-
-                                <div class="row">
-
-                                    <!-- ITEM -->
-                                    <div class="col-md-12">
-                                        <div class="news-item">
-                                            <div class="img">
-                                                <a href="#"><img src="images/home/hillternews/img-1.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <span class="date">21 / March</span>
-                                                <h2><a href="#">UPDATE MENU FOOD IN HILLTER HOTEL</a></h2>
-                                                <a href="#" class="read-more">[ Read More ]</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-md-12">
-                                        <div class="news-item">
-                                            <div class="img">
-                                                <a href="#"><img src="images/home/hillternews/img-2.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <span class="date">8 / March</span>
-                                                <h2><a href="#">WEDDING DAY JONATHA &amp; JESSICA</a></h2>
-                                                <a href="#" class="read-more">[ Read More ]</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    <!-- ITEM -->
-                                    <div class="col-md-12">
-                                        <div class="news-item">
-                                            <div class="img">
-                                                <a href="#"><img src="images/home/hillternews/img-3.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <span class="date">16 / February</span>
-                                                <h2><a href="#">THE BEST WEDDING GUIDE 2015</a></h2>
-                                                <a href="#" class="read-more">[ Read More ]</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                </div>
-
-                                <a href="#" class="awe-btn awe-btn-default">VIEW MORE</a>
-
-                            </div>
-
-                        </div>
-                        <!-- END / NEWS -->
-
-                    </div>
-
-                    <div class="hr"></div>
-
-                </div>
-
-            </div>
-        </section>
-        <!-- END / HOME NEW -->
 
         <!-- GALLERY -->
         <section class="section-gallery bg-white">
@@ -668,7 +516,7 @@ include "includes/header.php";
                     </div>
 
                     <div class="our-gallery text-center">
-                        <a href="#" class="awe-btn awe-btn-default">BROWSE OUR GALLERY</a>
+                        <a href="gallery.php" class="awe-btn awe-btn-default">BROWSE OUR GALLERY</a>
                     </div>
 
                 </div>
@@ -677,113 +525,6 @@ include "includes/header.php";
             </div>
         </section>
         <!-- END / GALLERY -->
-
-        <!-- FOOTER -->
-        <footer id="footer">
-
-
-            <!-- FOOTER CENTER -->
-            <div class="footer_center">
-                <div class="container">
-                    <div class="row">
-
-                        <div class="col-xs-12 col-lg-5">
-                            <div class="widget widget_logo">
-                                <div class="widget-logo">
-                                    <div class="img">
-                                        <a href="#"><img src="images/logo-footer.png" alt=""></a>
-                                    </div>
-                                    <div class="text">
-                                        <p><i class="hillter-icon-location"></i> 225 Beach Street, Australian</p>
-                                        <p><i class="hillter-icon-phone"></i> 1-548-854-8898</p>
-                                        <p><i class="fa fa-envelope-o"></i> <a href="mailto:hillterhotel@gmail.com">hillterhotel@gmail.com</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xs-4 col-lg-2">
-                            <div class="widget">
-                                <h4 class="widget-title">Page site</h4>
-                                <ul>
-                                    <li><a href="#">Guest Book</a></li>
-                                    <li><a href="#">Gallery</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Event</a></li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="col-xs-4 col-lg-2">
-                            <div class="widget">
-                                <h4 class="widget-title">ABOUT</h4>
-                                <ul>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">Comming Soon</a></li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="col-xs-4 col-lg-3">
-                            <div class="widget widget_tripadvisor">
-                                <h4 class="widget-title">Tripadvisor</h4>
-                                <div class="tripadvisor">
-                                    <p>Now with hotel reviews by</p>
-                                    <img src="images/tripadvisor.png" alt="">
-                                    <span class="tripadvisor-circle">
-                                        <i></i>
-                                        <i></i>
-                                        <i></i>
-                                        <i></i>
-                                        <i class="part"></i>
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-            </div>
-            <!-- END / FOOTER CENTER -->
-
-            <!-- FOOTER BOTTOM -->
-            <div class="footer_bottom">
-                <div class="container">
-                    <p>&copy; <?php echo date("Y"); ?> Villa Marisol Deluxe All rights reserved.</p>
-                </div>
-            </div>
-            <!-- END / FOOTER BOTTOM -->
-
-        </footer>
-        <!-- END / FOOTER -->
-
-    </div>
-    <!-- END / PAGE WRAP -->
-
-
-    <!-- LOAD JQUERY -->
-    <script type="text/javascript" src="js/lib/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="js/lib/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="js/lib/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/lib/bootstrap-select.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true"></script>
-    <script type="text/javascript" src="js/lib/isotope.pkgd.min.js"></script>
-    <script type="text/javascript" src="js/lib/jquery.themepunch.revolution.min.js"></script>
-    <script type="text/javascript" src="js/lib/jquery.themepunch.tools.min.js"></script>
-    <script type="text/javascript" src="js/lib/owl.carousel.js"></script>
-    <script type="text/javascript" src="js/lib/jquery.appear.min.js"></script>
-    <script type="text/javascript" src="js/lib/jquery.countTo.js"></script>
-    <script type="text/javascript" src="js/lib/jquery.countdown.min.js"></script>
-    <script type="text/javascript" src="js/lib/jquery.parallax-1.1.3.js"></script>
-    <script type="text/javascript" src="js/lib/jquery.magnific-popup.min.js"></script>
-    <script type="text/javascript" src="js/lib/SmoothScroll.js"></script>
-    <!-- validate -->
-    <script type="text/javascript" src="js/lib/jquery.form.min.js"></script>
-    <script type="text/javascript" src="js/lib/jquery.validate.min.js"></script>
-    <!-- Custom jQuery -->
-    <script type="text/javascript" src="js/scripts.js"></script>
-</body>
-</html>
+        <?php
+        include "includes/footer.php";
+        ?>

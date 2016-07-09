@@ -1341,7 +1341,7 @@ blockquote p:after {
     line-height: 84px
 }
 .header_logo img {
-    max-height: 53px
+    max-height: 84px
 }
 .menu-bars {
     color: #fff;
@@ -7837,7 +7837,7 @@ blockquote p:after {
     overflow: hidden
 }
 #footer .footer_center .widget-logo .img {
-    max-width: 145px;
+    max-width: 250px;
     display: inline-block;
     vertical-align: middle;
     margin-right: 40px

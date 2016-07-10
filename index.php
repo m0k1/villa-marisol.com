@@ -9,8 +9,8 @@ include "includes/header.php";
                 <!-- ITEM -->
                 <div class="slider-item text-center" data-image="images/slider/img-1.jpg">
                     <div class="slider-text">
-                        <span class="slider-caption-sub slider-caption-sub-1">NEW bakery</span>
-                        <h2 class="slider-caption slider-caption-1">bakery SALLAD</h2>
+                        <span class="slider-caption-sub slider-caption-sub-1">Villa Deluxe</span>
+                        <h2 class="slider-caption slider-caption-1">Marisol</h2>
                     </div>
                 </div>
                 <!-- ITEM -->
@@ -19,7 +19,7 @@ include "includes/header.php";
                 <div class="slider-item text-center" data-image="images/slider/img-2.jpg">
                     <div class="slider-text">
                         <span class="slider-caption-sub slider-caption-sub-2">EARLY BOOKING BONUS SALE</span>
-                        <h2 class="slider-caption slider-caption-2">SAVE <small>UP<br/>TO</small> 60%</h2>
+                        <h2 class="slider-caption slider-caption-2">SAVE <small>UP<br/>TO</small> 30%</h2>
 
                     </div>
                 </div>

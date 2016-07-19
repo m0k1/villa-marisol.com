@@ -188,9 +188,9 @@ function sendBooking() {
 		if (e("#banner-slider").length) {
 			var t = e("#header").innerHeight();
 			e("#banner-slider").owlCarousel({
-				autoPlay: 5e3,
+				autoPlay: false,
 				navigation: !0,
-				singleItem: !0,
+				singleItem: true,
 				pagination: !1,
 				transitionStyle: "fade",
 				navigationText: ['<i class="hillter-icon-left-arrow"></i>', '<i class="hillter-icon-right-arrow"></i>'],

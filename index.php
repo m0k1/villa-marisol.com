@@ -9,18 +9,9 @@ include "includes/header.php";
                 <!-- ITEM -->
                 <div class="slider-item text-center" data-image="images/slider/img-1.jpg">
                     <div class="slider-text">
-                        <span class="slider-caption-sub slider-caption-sub-1">Villa Deluxe</span>
+                        <span class="slider-caption-sub slider-caption-sub-1">Villa</span>
                         <h2 class="slider-caption slider-caption-1">Marisol</h2>
-                    </div>
-                </div>
-                <!-- ITEM -->
-
-                <!-- ITEM -->
-                <div class="slider-item text-center" data-image="images/slider/img-2.jpg">
-                    <div class="slider-text">
-                        <span class="slider-caption-sub slider-caption-sub-2">EARLY BOOKING BONUS SALE</span>
-                        <h2 class="slider-caption slider-caption-2">SAVE <small>UP<br/>TO</small> 30%</h2>
-
+                        <span class="slider-caption-sub slider-caption-sub-1">Deluxe</span>
                     </div>
                 </div>
                 <!-- ITEM -->
@@ -57,7 +48,7 @@ include "includes/header.php";
                                         <option>3</option>
                                     </select>
                                     <div class="vailability-submit">
-                                        <button class="awe-btn awe-btn-13">FIND THE BEST RATE</button>
+                                        <button class="awe-btn awe-btn-13">CHECK</button>
                                     </div>
                                 </div>
                             </form>
@@ -161,8 +152,8 @@ include "includes/header.php";
                                     </div>
 
                                     <div class="text">
-                                        <p>This is the only place to stay in Catalina! I have stayed in the cheaper hotels and they were fine, but this is just the icing on the cake! After spending the day bike riding and hiking to come back and enjoy a glass of wine while looking out your ocean view window and then to top it all off...</p>
-                                        <span><strong>Seelentag</strong>From Los Angeles, California</span>
+                                        <p>This is the only place to stay in Budva! I have stayed in the cheaper hotels and they were fine, but this is just the icing on the cake! After spending the day bike riding and hiking to come back and enjoy a glass of wine while looking out your ocean view window and then to top it all off...</p>
+                                        <span><strong>Boris</strong>From Saint Petersburg, Russia</span>
                                     </div>
                                 </div>
                                 <!-- ITEM -->
@@ -170,12 +161,12 @@ include "includes/header.php";
                                 <!-- ITEM -->
                                 <div class="guestbook-item">
                                     <div class="img">
-                                        <img src="images/avatar/img-5.jpg" alt="">
+                                        <img src="images/avatar/img-3.jpg" alt="">
                                     </div>
 
                                     <div class="text">
-                                        <p>This is the only place to stay in Catalina! I have stayed in the cheaper hotels and they were fine, but this is just the icing on the cake! After spending the day bike riding and hiking to come back and enjoy a glass of wine while looking out your ocean view window and then to top it all off...</p>
-                                        <span><strong>Seelentag</strong>From Los Angeles, California</span>
+                                        <p>I love the gareden, and barbecue that you have, I will definitely come back to your place ! Budva is nice city, and all the  people are on a good mood !</p>
+                                        <span><strong>Anke</strong>From Mühldorf, Germany</span>
                                     </div>
                                 </div>
                                 <!-- ITEM -->

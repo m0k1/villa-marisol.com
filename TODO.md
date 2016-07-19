@@ -13,3 +13,6 @@ Reservation - Reservation step by step
 
 CRON JOBS
 x/weather/weather.php?update (call this evry 60min)
+
+Make this a static site and host it 4 free @ github
+(Use hexo and js to grab weather.php from wather.r00t.club)

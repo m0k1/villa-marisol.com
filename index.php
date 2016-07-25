@@ -107,7 +107,7 @@ include "includes/header.php";
                                     <li>Air Condition</li>
                                     <li>Modern kitchen with hood</li>
                                     <li>Cable/satellite TV channels</li>
-                                    <li>Washing machine<li>
+                                    <li>Washing machine</li>
                                     <li>Parking</li>
                                     <li>Safe (strongbox)</li>
                                     <li>Flatscreen TV</li>

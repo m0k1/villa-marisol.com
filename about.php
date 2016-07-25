@@ -7,8 +7,8 @@ include "includes/header.php";
             <div class="sub-banner">
                 <div class="container">
                     <div class="text text-center">
-                        <h2>ABOUT HILLTER</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing</p>
+                        <h2>ABOUT Villa Marisol</h2>
+                        <p>Here are great things that you need to know about Villa Marisol Deluxe !</p>
                     </div>
                 </div>
 
@@ -32,27 +32,10 @@ include "includes/header.php";
                         </div>
 
                         <div class="text">
-                            <h2 class="heading">ABOUT HILLTER</h2>
+                            <h2 class="heading">ABOUT Villa Marisol</h2>
                             <div class="desc">
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. <b>The point of using Lorem Ipsum is that it has a more-or-less normal</b> distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing<br> packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</p><br>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
-                            </div>
-                        </div>
-
-                    </div>
-                    <!-- END / ITEM -->
-
-                    <!-- ITEM -->
-                    <div class="about-item about-right">
-
-                        <div class="img">
-                            <img src="images/about/img-2.jpg" alt="">
-                        </div>
-
-                        <div class="text">
-                            <h2 class="heading">WHY GUEST CHOOSE HILLTER HOTEL?</h2>
-                            <div class="desc">
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, <b>sometimes by accident, sometimes on purpose</b> (injected humour and the like).</p>
+                                <p>Villa Marisol Deluxe is completely renovated in 2012. We welcome our guests in familiarly atmosphere. In our small community, you can relax and enjoy your vacation! We are only 280 meters away from beach, so you will not need to walk too mutch.  Cleanliness and hospitality is the Villa Marisol highest priority. Special requests can be met, we also offer tourist excursions in multiple languages.</p><br>
+                                <p>Couse cleanliness is our mine priority we change towels evry 2 days and linen are changed every 4 days. We have great garden with deck chairs, grill, it’s best pavilion for relaxing. The furniture is exclusive and high quality. We are proud to see you as our next guests !</p>
                             </div>
                         </div>
 

@@ -73,8 +73,8 @@ include "includes/header.php";
                         <div class="col-md-6">
                             <div class="text">
                                 <h2 class="heading">ABOUT US</h2>
-                                <span>Lorem Ipsum is simply dummy text</span>
-                                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source</p>
+                                <span>This is short intro about Villa Marisol Deluxe</span>
+                                <p>Villa Marisol Deluxe is completely renovated in 2012. We welcome our guests in familiarly atmosphere. In our small community, you can relax and enjoy your vacation! We are only 280 meters away from beach, so you will not need to walk too mutch.  Cleanliness and hospitality is the Villa Marisol highest priority. Special requests can be met, we also offer tourist excursions in multiple languages.</p>
                                 <a href="about.php" class="awe-btn awe-btn-default">READ MORE</a>
                             </div>
                         </div>
@@ -100,20 +100,18 @@ include "includes/header.php";
                         <div class="col-md-6 col-md-pull-6 ">
                             <div class="text">
                                 <h2 class="heading">Our Best</h2>
-                                <p>One of Catalina Island's best-loved hotels, Hotel Vista Del Mar is recognized as one of Avalon's leading hotels with gracious island hospitality, thoughtful amenities and distinctive .</p>
+                                <p>One of Budva best-loved villa, Villa Marisol Deluxe is recognized as one of Budva's leading Villa with gracious montenegrian hospitality, thoughtful amenities and distinctive .</p>
                                 <ul>
-                                    <li>Coffee maker</li>
-                                    <li>25 inch or larger TV</li>
+                                    <li>Wi-Fi</li>
+                                    <li>Kingsize Bad</li>
+                                    <li>Air Condition</li>
+                                    <li>Modern kitchen with hood</li>
                                     <li>Cable/satellite TV channels</li>
-                                    <li>AM/FM clock radio</li>
-                                    <li>Voicemail</li>
-                                    <li>Private concierge</li>
-                                    <li>Oversized work desk</li>
-                                    <li>Hairdryer</li>
-                                    <li>Iron/ironing board upon request</li>
-                                    <li>Dataport</li>
-                                    <li>Phone access fees waived</li>
-                                    <li>24-hour Concierge service</li>
+                                    <li>Washing machine<li>
+                                    <li>Parking</li>
+                                    <li>Safe (strongbox)</li>
+                                    <li>Flatscreen TV</li>
+                                    <li>Security Lights</li>
                                 </ul>
                             </div>
                         </div>
@@ -156,9 +154,6 @@ include "includes/header.php";
                                         <span><strong>Boris</strong>From Saint Petersburg, Russia</span>
                                     </div>
                                 </div>
-                                <!-- ITEM -->
-
-                                <!-- ITEM -->
                                 <div class="guestbook-item">
                                     <div class="img">
                                         <img src="images/avatar/img-3.jpg" alt="">

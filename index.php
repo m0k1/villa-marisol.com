@@ -73,7 +73,6 @@ include "includes/header.php";
                         <div class="col-md-6">
                             <div class="text">
                                 <h2 class="heading">ABOUT US</h2>
-                                <span>This is short intro about Villa Marisol Deluxe</span>
                                 <p>Villa Marisol Deluxe is completely renovated in 2012. We welcome our guests in familiarly atmosphere. In our small community, you can relax and enjoy your vacation! We are only 280 meters away from beach, so you will not need to walk too mutch.  Cleanliness and hospitality is the Villa Marisol highest priority. Special requests can be met, we also offer tourist excursions in multiple languages.</p>
                                 <a href="about.php" class="awe-btn awe-btn-default">READ MORE</a>
                             </div>

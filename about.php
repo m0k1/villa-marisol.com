@@ -28,7 +28,6 @@ include "includes/header.php";
 
                         <div class="img owl-single">
                             <img src="images/about/img-1.jpg" alt="">
-                            <img src="images/about/img-2.jpg" alt="">
                         </div>
 
                         <div class="text">

@@ -135,7 +135,7 @@ include "includes/header.php";
                             <div class="guestbook-header">
                                 <h2 class="heading">GUEST BOOK</h2>
                                 <p>Your feedback means the world to us.</p>
-                                <a href="guestbook.php" class="awe-btn awe-btn-default">VIEW MORE</a>
+                                
                             </div>
                         </div>
 

@@ -2,7 +2,20 @@
 include "includes/header.php";
 ?>
 
+        <!-- SUB BANNER -->
+        <section class="section-sub-banner awe-parallax bg-9">
+            <div class="awe-overlay"></div>
+            <div class="sub-banner">
+                <div class="container">
+                    <div class="text text-center">
+                      &nbsp;
+                    </div>
+                </div>
 
+            </div>
+
+        </section>
+        <!-- END / SUB BANNER -->
 
         <!-- CONTACT -->
         <section class="section-contact">

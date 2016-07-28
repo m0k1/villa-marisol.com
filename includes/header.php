@@ -104,7 +104,6 @@
                             <li class="current-menu-item"><a href="index.php">Home</a></li>
                             <li><a href="about.php">About</a></li>
                             <li><a href="gallery.php">Gallery</a></li>
-                            <li><a href="guestbook.php">Guest Book</a></li>
                             <li><a href="budva.php">Budva</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>

@@ -38,7 +38,6 @@
                             <div class="widget">
                                 <h4 class="widget-title">&nbsp;</h4>
                                 <ul>
-                                    <li><a href="guestbook.php">Guest Book</a></li>
                                     <li><a href="budva.php">Budva</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
@@ -60,6 +59,9 @@
                                     </span>
                                 </div>
                             </div>
+                            <a href="http://www.holidaycheck.de/h1443400">
+	<img src="http://vorlagen.hc.ag/Logo_RoHC_2016.png"/>
+</a>
                         </div>
 
 

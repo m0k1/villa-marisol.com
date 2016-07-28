@@ -74,7 +74,7 @@ include "includes/header.php";
                                 <br>
                                 <br>
 
-                                <h2 class="attraction_content-title">Known as na pjenu od mora</h2>
+                                <h2 class="attraction_content-title">Known as na r pjenu od mora</h2>
                                 <br>
                                 <p>
                                     Known as the na pjenu od mora, <b>Budva</b> offers everything you need to Eat, Shop, and Play. Our sidewalks are lined with unique boutiques, restaurants, specialty shops, spas, and professional services. Enjoy our eclectic collection of award-winning, locally-owned businesses. Spend the day in the area voted “<b>Best Shopping Neighborhood in Montenegro</b>” by the readers of <a href="#">Southern Living magazine.</a>

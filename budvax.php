@@ -8,8 +8,7 @@ include "includes/header.php";
             <div class="sub-banner">
                 <div class="container">
                     <div class="text text-center">
-                        <h2>MAP</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing</p>
+                        &nbsp;
                     </div>
                 </div>
             </div>
@@ -19,9 +18,6 @@ include "includes/header.php";
         <!-- ATTRACTIONS -->
         <section class="section-attractions bg-white">
 
-            <!-- MAPS -->
-            <div class="attraction-maps" id="attraction-maps"></div>
-            <!-- END / MAPS -->
 
             <div class="container">
 
@@ -36,18 +32,7 @@ include "includes/header.php";
                                 <h2 class="attraction_heading">ATTRACTIONS <span class="attraction-icon-drop fa fa-angle-down"></span></h2>
 
                                 <div class="attraction_sidebar-content">
-                                    <h3 class="attraction_title"><i class="fa fa-map-marker"></i>HILLTER HOTEL &amp; RESORT</h3>
-
-                                    <select class="attraction_select awe-select">
-                                        <option>Local Attractions</option>
-                                        <option>Arthur Ashe Center</option>
-                                        <option>Carytown Street</option>
-                                        <option>Greater Richmond Convention Center</option>
-                                        <option>James River Plantations</option>
-                                        <option>Jamestown Settlement</option>
-                                        <option>Kings Dominion</option>
-                                    </select>
-
+                                    <h3 class="attraction_title"><i class="fa fa-map-marker"></i>Villa Marisol Deluxe</h3>
                                     <ul class="attraction_location" id="attraction_location">
                                         <li class="active"><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Arthur Ashe Center</a></li>
                                         <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.576861,-98.459881" data-title="Carytown Street" data-address="3325 West Cary Street">Carytown Street</a></li>
@@ -79,7 +64,7 @@ include "includes/header.php";
                                     <h2 class="attraction_detail-title"><i class="fa fa-map-marker"></i>Carytown Street</h2>
                                     <ul>
                                         <li>
-                                            <span>ADDRESS:</span> 3325 West Cary Street<br>
+                                            <span>ADDRESS:</span> 3325aa West Cary Street<br>
                                         </li>
                                         <li>
                                             <span>Website:</span> <a href="#">Carytown street</a><br>

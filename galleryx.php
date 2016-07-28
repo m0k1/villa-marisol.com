@@ -8,8 +8,7 @@ include "includes/header.php";
             <div class="sub-banner">
                 <div class="container">
                     <div class="text text-center">
-                        <h2>Gallery 3</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing</p>
+                      &nbsp;
                     </div>
                 </div>
             </div>
@@ -21,17 +20,6 @@ include "includes/header.php";
             <div class="container">
                 <div class="gallery gallery-3">
 
-                    <!-- FILTER -->
-                    <div class="gallery-cat text-center">
-                        <ul class="list-inline">
-                            <li class="active"><a href="#" data-filter="*">All</a></li>
-                            <li><a href="#" data-filter=".ground">HOTEL &amp; GROUND</a></li>
-                            <li><a href="#" data-filter=".suite">ROOM/SUITE </a></li>
-                            <li><a href="#" data-filter=".bathroom">BATHROOM</a></li>
-                            <li><a href="#" data-filter=".dining">DINING</a></li>
-                        </ul>
-                    </div>
-                    <!-- END / FILTER -->
 
                     <!-- GALLERY CONTENT -->
                     <div class="gallery-content">

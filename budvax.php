@@ -33,33 +33,16 @@ include "includes/header.php";
 
                                 <div class="attraction_sidebar-content">
                                     <h3 class="attraction_title"><i class="fa fa-map-marker"></i>Villa Marisol</h3>
-
-                                    <select class="attraction_select awe-select">
-                                        <option>Local Attractions</option>
-                                        <option>Arthur Ashe Center</option>
-                                        <option>Carytown Street</option>
-                                        <option>Greater Richmond Convention Center</option>
-                                        <option>James River Plantations</option>
-                                        <option>Jamestown Settlement</option>
-                                        <option>Kings Dominion</option>
-                                    </select>
-
                                     <ul class="attraction_location" id="attraction_location">
-                                        <li class="active"><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Arthur Ashe Center</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.576861,-98.459881" data-title="Carytown Street" data-address="3325 West Cary Street">Carytown Street</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.576922,-98.463700" data-title="Carytown Street" data-address="3325 West Cary Street">Greater Richmond Convention Center</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.577172,-98.457327" data-title="Carytown Street" data-address="3325 West Cary Street">James River Plantations</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.573949,-98.462402" data-title="Carytown Street" data-address="3325 West Cary Street">Jamestown Settlement</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Kings Dominion</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Lewis Ginter Botanical Garden</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Maymont Foundation</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Richmond International Raceway</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Richmond National Battlefield Park</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Short Pump Town Center</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">The Diamond- Richmond Flying Squirrels</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">University of Richmond</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Virginia Commonwealth University</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Busch Gardens Williamsburg</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.576861,-98.459881" data-title="Carytown Street" data-address="3325 West Cary Street">Carytown Street</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.576922,-98.463700" data-title="Carytown Street" data-address="3325 West Cary Street">Greater Richmond Convention Center</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.577172,-98.457327" data-title="Carytown Street" data-address="3325 West Cary Street">James River Plantations</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.573949,-98.462402" data-title="Carytown Street" data-address="3325 West Cary Street">Jamestown Settlement</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Kings Dominion</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Lewis Ginter Botanical Garden</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Maymont Foundation</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Richmond International Raceway</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Richmond National Battlefield Park</a></li>
                                     </ul>
 
                                 </div>
@@ -70,22 +53,7 @@ include "includes/header.php";
 
                         <div class="col-md-8">
 
-                            <div class="attraction_detail">
-                                <div class="attraction_detail-header">
-                                    <h2 class="attraction_detail-title"><i class="fa fa-map-marker"></i>Carytown Street</h2>
-                                    <ul>
-                                        <li>
-                                            <span>ADDRESS:</span> 3325a West Cary Street<br>
-                                        </li>
-                                        <li>
-                                            <span>Website:</span> <a href="#">Carytown street</a><br>
-                                        </li>
-                                        <li>
-                                            <span>google map:</span> <a href="#">Google Map</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+
 
                             <div class="attraction_content" id="attraction_content">
 

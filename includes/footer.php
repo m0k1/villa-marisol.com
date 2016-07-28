@@ -17,7 +17,7 @@
                                     <div class="text">
                                         <p><i class="hillter-icon-location"></i> Zrtava Fasizma 136, 85310 Budva, Montenegro</p>
                                         <p><i class="hillter-icon-phone"></i> +38268303375</p>
-                                        <p><i class="fa fa-envelope-o"></i> <a href="mailto:office@villa-marisol.com">office@villa-marisol.com</a></p>
+                                        <p><i class="fa fa-envelope-o"></i> <a href="mailto:office@villa-marisol.me">office@villa-marisol.me</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -50,13 +50,6 @@
                                 <div class="tripadvisor">
                                     <p>Now with hotel reviews by</p>
                                     <img src="images/tripadvisor.png" alt="">
-                                    <span class="tripadvisor-circle">
-                                        <i></i>
-                                        <i></i>
-                                        <i></i>
-                                        <i></i>
-                                        <i class="part"></i>
-                                    </span>
                                 </div>
                             </div>
                             <a href="http://www.holidaycheck.de/h1443400">

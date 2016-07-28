@@ -2,21 +2,7 @@
 include "includes/header.php";
 ?>
 
-        <!-- SUB BANNER -->
-        <section class="section-sub-banner awe-parallax bg-9">
-            <div class="awe-overlay"></div>
-            <div class="sub-banner">
-                <div class="container">
-                    <div class="text text-center">
-                        <h2>CONTACT WITH ME</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing</p>
-                    </div>
-                </div>
 
-            </div>
-
-        </section>
-        <!-- END / SUB BANNER -->
 
         <!-- CONTACT -->
         <section class="section-contact">
@@ -28,62 +14,19 @@ include "includes/header.php";
 
                             <div class="text">
                                 <h2>Contact</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+                                <p>Want to get in tocuh with us ? Send us a mail, phone or send message via this form.</p>
                                 <ul>
-                                    <li><i class="icon hillter-icon-location"></i> 225 Beach Street, Australian</li>
-                                    <li><i class="icon hillter-icon-phone"></i> +61 2 6854 8496</li>
-                                    <li><i class="icon fa fa-envelope-o"></i> hillterhotel@gmail.com</li>
+                                    <li><i class="icon hillter-icon-location"></i> Zrtava Fasizma 136, 85310 Budva, Montenegro</li>
+                                    <li><i class="icon hillter-icon-phone"></i> +38268303375</li>
+                                    <li><i class="icon fa fa-envelope-o"></i> office@villa-marisol.me</li>
                                 </ul>
-                            </div>
-
-                            <div class="contact-location">
-                                <a class="btn-collapse" data-toggle="collapse" href="#location">OTHER LOCATION <span class="fa fa-angle-down"></span></a>
-                                <div class="collapse" id="location">
-                                    <div class="location-group">
-                                        <h6>NORTH AMERICA</h6>
-                                        <span>Caribbean, French West Indies</span>
-
-                                        <!-- ITEM -->
-                                        <div class="location-item" data-location="39.0926986,-94.5747324">
-                                            <div class="img">
-                                                <img src="images/contact/img-1.jpg" alt="">
-                                                <i class="fa  fa-map-marker"></i>
-                                            </div>
-                                            <div class="text">
-                                                <address>PO Box 4077, 2584 St Martin, CEDEX, French West Indies</address>
-                                                <p>
-                                                    Tel: 858 634 8975 <br>
-                                                    Fax: +1 212 854 7039
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <!-- END / ITEM -->
-
-                                        <!-- ITEM -->
-                                        <div class="location-item" data-location="39.0912284,-94.5743515">
-                                            <div class="img">
-                                                <img src="images/contact/img-2.jpg" alt="">
-                                                <i class="fa  fa-map-marker"></i>
-                                            </div>
-                                            <div class="text">
-                                                <address>PO Box 4077, 2584 St Martin, CEDEX, French West Indies</address>
-                                                <p>
-                                                    Tel: 858 634 8975 <br>
-                                                    Fax: +1 212 854 7039
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <!-- END / ITEM -->
-
-                                    </div>
-                                </div>
                             </div>
 
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-lg-offset-1">
                             <div class="contact-form">
-                                <form id="send-contact-form" action="http://envato.megadrupal.com/html/hillter/send_mail_contact.php" method="post">
+                                <form id="send-contact-form" action="send.php" method="post">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <input type="text" class="field-text"  name="name" placeholder="Name">

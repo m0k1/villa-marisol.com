@@ -29,7 +29,6 @@
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about.php">About</a></li>
-                                    <li><a href="details.php">Details</a></li>
                                     <li><a href="gallery.php">Gallery</a></li>
                                 </ul>
                             </div>
@@ -39,7 +38,6 @@
                             <div class="widget">
                                 <h4 class="widget-title">&nbsp;</h4>
                                 <ul>
-                                    <li><a href="reservation-step-1.php">Reservation</a></li>
                                     <li><a href="guestbook.php">Guest Book</a></li>
                                     <li><a href="budva.php">Budva</a></li>
                                     <li><a href="contact.php">Contact</a></li>

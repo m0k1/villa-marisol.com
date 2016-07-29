@@ -55,9 +55,6 @@ include "includes/header.php";
 
 
                             <div class="attraction_content" id="attraction_content">
-
-                                  <h2 class="attraction_content-title">Budva na pjenu od mora</h2>
-                                <br>
                                 <div class="wp_caption aligncenter">
                                     <img src="images/attractions/img-1.jpg" alt="">
                                 </div>
@@ -70,12 +67,6 @@ include "includes/header.php";
                                 <div class="wp_caption alignleft">
                                     <img src="images/attractions/img-2.jpg" alt="">
                                 </div>
-
-                                <br>
-                                <br>
-
-                                <h2 class="attraction_content-title">Known as na r pjenu od mora</h2>
-                                <br>
                                 <p>
                                   During the summer months it turns into a City Theatre with numerous local performances and shows from abroad. In the Stari Grad (Old town) you can also visit many shops, cafés, restaurants and galleries. Monasteries Stanjevici, Podostrog, Rezevici and Gradiste are important historic and religious monuments of Budva. The Budva coast is 21 km long with 17 beaches. It is among the most beautiful coasts in the world and its beauty will not leave you indifferent. Also, wide range of accommodation, from very affordable to exclusive and luxury. Budva is must visit place in Montenegro and the whole city is dedicated to provide best tourist offer.
                                 </p>

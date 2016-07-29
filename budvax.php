@@ -64,7 +64,7 @@ include "includes/header.php";
                                 <br>
                                 <br>
 
-                                <p>Known as the <b>na pjenu od mora</b>, Budva offers everything you need to Eat, Shop, and Play. Our sidewalks are lined with unique boutiques, restaurants, specialty shops, spas, and professional services. Enjoy our eclectic collection of award-winning, locally-owned businesses. Spend the day in the area voted “<b>Best Shopping</b> Neighborhood in Montenegro" by the readers of Southern <a href="#">Living magazine.</a></p>
+                                <p>Budva is the metropolis of Montenegrin tourism thanks to the great number of beaches and hotels that make this a most desirable tourist destination. Apart from its natural beauty, its bay islands and beaches for example, Budva is rich in historic monuments.Budva Old Town lies on a small peninsula and represents a treasure chest of culture heritage. Crossed with narrow streets and squares are famous buildings, the Church Sv. Trojica, housing the tomb of the exquisite writer Stjepan Mitrov Ljubisa, the Churches of Sv. Ivan, Sv. Bogorodica and Sv. Sava.</p>
                                 <br><br>
 
                                 <div class="wp_caption alignleft">
@@ -77,7 +77,7 @@ include "includes/header.php";
                                 <h2 class="attraction_content-title">Known as na r pjenu od mora</h2>
                                 <br>
                                 <p>
-                                    Known as the na pjenu od mora, <b>Budva</b> offers everything you need to Eat, Shop, and Play. Our sidewalks are lined with unique boutiques, restaurants, specialty shops, spas, and professional services. Enjoy our eclectic collection of award-winning, locally-owned businesses. Spend the day in the area voted “<b>Best Shopping Neighborhood in Montenegro</b>” by the readers of <a href="#">Southern Living magazine.</a>
+                                  During the summer months it turns into a City Theatre with numerous local performances and shows from abroad. In the Stari Grad (Old town) you can also visit many shops, cafés, restaurants and galleries. Monasteries Stanjevici, Podostrog, Rezevici and Gradiste are important historic and religious monuments of Budva. The Budva coast is 21 km long with 17 beaches. It is among the most beautiful coasts in the world and its beauty will not leave you indifferent. Also, wide range of accommodation, from very affordable to exclusive and luxury. Budva is must visit place in Montenegro and the whole city is dedicated to provide best tourist offer.
                                 </p>
 
                             </div>

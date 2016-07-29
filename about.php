@@ -1,4 +1,5 @@
 <?php
+$page = "About";
 include "includes/header.php";
 ?>
         <!-- SUB BANNER -->

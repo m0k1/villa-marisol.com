@@ -51,10 +51,10 @@
             <div class="awe-overlay"></div>
             <div class="page-404 text-center">
                 <a href="#"><img src="images/logo-footer.png" alt=""></a>
-                <h1>ROOM <span>404</span></h1>
+                <h1>ERROR <span>404</span></h1>
                 <h6>Look like it's empty here!</h6>
-                <p>There are so many other interesting rooms that are much easier to be accessed, I bet. Enjoy them in <a href="#">the box below.</a></p>
-                <p>go back to <a href="index.php">Home Page</a> </p>
+                <p>There are so many other interesting things that are much easier to be accessed, we bet.</p>
+                <p>Go back to <a href="index.php">Home Page</a> </p>
             </div>
 
         </section>

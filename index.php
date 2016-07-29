@@ -1,4 +1,5 @@
 <?php
+$page = "Home";
 include "includes/header.php";
 ?>
         <!-- BANNER SLIDER -->

@@ -90,11 +90,12 @@
                     <!-- HEADER MENU -->
                     <nav class="header_menu">
                         <ul class="menu">
-                            <li class="current-menu-item"><a href="index.php">Home</a></li>
-                            <li><a href="about.php">About</a></li>
-                            <li><a href="gallery.php">Gallery</a></li>
-                            <li><a href="budva.php">Budva</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+
+                            <li <?php if($page == "Home"){ echo "class='current-menu-item'"; } ?>><a href="index.php">Home</a></li>
+                            <li <?php if($page == "About"){ echo "class='current-menu-item'"; } ?>><a href="about.php">About</a></li>
+                            <li <?php if($page == "Gallery"){ echo "class='current-menu-item'"; } ?>><a href="gallery.php">Gallery</a></li>
+                            <li <?php if($page == "Budva"){ echo "class='current-menu-item'"; } ?>><a href="budva.php">Budva</a></li>
+                            <li <?php if($page == "Contact"){ echo "class='current-menu-item'"; } ?>><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>
                     <!-- END / HEADER MENU -->

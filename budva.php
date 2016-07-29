@@ -1,4 +1,5 @@
 <?php
+$page = "Budva";
 include "includes/header.php";
 ?>
 

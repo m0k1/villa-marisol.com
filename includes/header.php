@@ -61,17 +61,6 @@
                     </div>
                     <div class="header_right float-right">
 
-
-
-                        <div class="dropdown currency">
-                            <span>USD <i class="fa fa"></i></span>
-                            <ul>
-                                <li class="active"><a href="#">USD</a></li>
-                                <li><a href="#">EUR</a></li>
-                                <li><a href="#">RUB</a></li>
-                            </ul>
-                        </div>
-
                         <div class="dropdown language">
                             <span>ENG</span>
 

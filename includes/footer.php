@@ -52,12 +52,8 @@
                                     <img src="images/tripadvisor.png" alt="">
                                 </div>
                             </div>
-                            <a href="http://www.holidaycheck.de/h1443400">
-	<img src="http://vorlagen.hc.ag/Logo_RoHC_2016.png"/>
-</a>
+                            <a href="http://www.holidaycheck.de/h1443400"><img src="images/Logo_RoHC_2016.png"/></a>
                         </div>
-
-
                     </div>
                 </div>
             </div>

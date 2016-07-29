@@ -34,7 +34,7 @@ include "includes/header.php";
                                 <div class="item-isotope larger suite bathroom dining">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/page-3/img-1.jpg" alt="">
+                                            <img src="images/gallery/img-1.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -43,8 +43,8 @@ include "includes/header.php";
                                 <!-- ITEM -->
                                 <div class="item-isotope ground bathroom dining">
                                     <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/page-3/img-2.jpg" alt="">
+                                        <a href="images/gallery/popup/img-2.jpg" class="mfp-image">
+                                            <img src="images/gallery/img-2.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -53,8 +53,8 @@ include "includes/header.php";
                                 <!-- ITEM -->
                                 <div class="item-isotope ground suite dining">
                                     <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/page-3/img-3.jpg" alt="">
+                                        <a href="images/gallery/popup/img-3.jpg" class="mfp-image">
+                                            <img src="images/gallery/img-3.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -63,8 +63,8 @@ include "includes/header.php";
                                 <!-- ITEM -->
                                 <div class="item-isotope ground suite bathroom">
                                     <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/page-3/img-4.jpg" alt="">
+                                        <a href="images/gallery/popup/img-4.jpg" class="mfp-image">
+                                            <img src="images/gallery/img-4.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -73,8 +73,8 @@ include "includes/header.php";
                                 <!-- ITEM -->
                                 <div class="item-isotope suite bathroom dining">
                                     <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/page-3/img-5.jpg" alt="">
+                                        <a href="images/gallery/popup/img-5.jpg" class="mfp-image">
+                                            <img src="images/gallery/img-5.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>

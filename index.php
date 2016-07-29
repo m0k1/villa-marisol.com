@@ -135,7 +135,7 @@ include "includes/header.php";
                             <div class="guestbook-header">
                                 <h2 class="heading">GUEST BOOK</h2>
                                 <p>Your feedback means the world to us.</p>
-                                
+
                             </div>
                         </div>
 
@@ -196,7 +196,7 @@ include "includes/header.php";
 
                             <div class="item-isotope suite dining ">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-1.jpg" alt="">
                                     </a>
                                 </div>
@@ -206,7 +206,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope  ground bathroom suite">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-2.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-2.jpg" alt="">
                                     </a>
                                 </div>
@@ -216,7 +216,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope ground bathroom dining">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-3.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-3.jpg" alt="">
                                     </a>
                                 </div>
@@ -226,7 +226,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope suite dining">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-4.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-4.jpg" alt="">
                                     </a>
                                 </div>
@@ -236,7 +236,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope  ground suite dining">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-5.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-5.jpg" alt="">
                                     </a>
                                 </div>
@@ -246,7 +246,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope ground bathroom dining">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-6.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-6.jpg" alt="">
                                     </a>
                                 </div>
@@ -256,7 +256,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope ground suite dining">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-7.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-7.jpg" alt="">
                                     </a>
                                 </div>
@@ -266,7 +266,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope bathroom suite dining">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-8.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-8.jpg" alt="">
                                     </a>
                                 </div>
@@ -276,7 +276,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope bathroom suite dining">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-9.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-9.jpg" alt="">
                                     </a>
                                 </div>
@@ -286,7 +286,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope ground bathroom">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-10.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-10.jpg" alt="">
                                     </a>
                                 </div>
@@ -296,7 +296,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope ground bathroom suite ">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-11.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-11.jpg" alt="">
                                     </a>
                                 </div>
@@ -306,7 +306,7 @@ include "includes/header.php";
                             <!-- ITEM -->
                             <div class="item-isotope ground bathroom">
                                 <div class="gallery_item">
-                                    <a  href="images/gallery/popup/img-1.jpg" class="gallery-popup mfp-image" title="Luxury Room view all">
+                                    <a  href="images/gallery/popup/img-12.jpg" class="gallery-popup mfp-image" title="Villa Marisol">
                                         <img src="images/gallery/img-12.jpg" alt="">
                                     </a>
                                 </div>

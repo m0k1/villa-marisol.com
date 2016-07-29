@@ -36,17 +36,12 @@ include "includes/header.php";
                                     <input type="text" name="departure" class="awe-calendar to" placeholder="Departure Date">
 
                                     <select class="awe-select" name="adults">
-                                        <option>Adults</option>
+                                        <option>Guests</option>
                                         <option>1</option>
                                         <option>2</option>
                                         <option>3</option>
                                     </select>
-                                    <select class="awe-select" name="children">
-                                        <option>Children</option>
-                                        <option>1</option>
-                                        <option>2</option>
-                                        <option>3</option>
-                                    </select>
+
                                     <div class="vailability-submit">
                                         <button class="awe-btn awe-btn-13">CHECK</button>
                                     </div>

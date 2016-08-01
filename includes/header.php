@@ -57,7 +57,7 @@
                     <div class="header_left float-left">
                         <span><i class="hillter-icon-cloud"></i> <?php echo $weather; ?></span>
                         <span><i class="hillter-icon-location"></i> Zrtava Fasizma 136, 85310 Budva, Montenegro</span>
-                        <span><i class="hillter-icon-phone"></i> +38268303375</span>
+                        <span><i class="hillter-icon-phone"></i> +49 176 6789 5189</span>
                     </div>
                     <div class="header_right float-right">
 

@@ -16,7 +16,7 @@
                                     </div>
                                     <div class="text">
                                         <p><i class="hillter-icon-location"></i> Zrtava Fasizma 136, 85310 Budva, Montenegro</p>
-                                        <p><i class="hillter-icon-phone"></i> +38268303375</p>
+                                        <p><i class="hillter-icon-phone"></i> +49 176 6789 5189</p>
                                         <p><i class="fa fa-envelope-o"></i> <a href="mailto:office@villa-marisol.me">office@villa-marisol.me</a></p>
                                     </div>
                                 </div>

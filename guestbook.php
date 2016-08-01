@@ -25,7 +25,7 @@ include "includes/header.php";
                     <!-- GUEST BOOK HEAD -->
                     <div class="guest-book_head guest-book_head-2 text-center">
                         <div class="text">
-                            <a href="#" class="awe-btn awe-btn-13 awe-ajax">WRITE IN GUEST BOOK ? Send email to guestbook@villa-marisol.me</a>
+                            <a href="#" class="awe-btn awe-btn-13">WRITE IN GUEST BOOK ? Send email to guestbook@villa-marisol.me</a>
                         </div>
                     </div>
                     <!-- END / GUEST BOOK HEAD -->

@@ -24,9 +24,7 @@ include "includes/header.php";
                     <!-- GUEST BOOK HEAD -->
                     <div class="guest-book_head guest-book_head-2 text-center">
                         <div class="text">
-                            <h2>READ OUR GUEST BOOK FORM CUSTOMER</h2>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal .</p>
-                            <a href="#" class="awe-btn awe-btn-13 awe-ajax">WRITE IN GUEST BOOK</a>
+                            <a href="#" class="awe-btn awe-btn-13 awe-ajax">WRITE IN GUEST BOOK ? Send email to guestbook@villa-marisol.me</a>
                         </div>
                     </div>
                     <!-- END / GUEST BOOK HEAD -->
@@ -36,17 +34,16 @@ include "includes/header.php";
 
                         <div class="row">
                             <div class="guest-book_mansory">
-
                                 <!-- ITEM -->
                                 <div class="item-masonry col-xs-6 col-md-4">
                                     <div class="guest-book_item guest-book_item-2">
                                         <span class="icon hillter-icon-quote-left"></span>
                                         <div class="avatar">
-                                            <img src="images/avatar/img-6.jpg" alt="">
+                                            <img src="images/avatar/img-5.jpg" alt="">
                                         </div>
                                         <h2>BEST PRICE</h2>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing</p>
-                                        <span><b>Jonatha Owens</b> - Sydney Australia</span>
+                                        <p>This is the only place to stay in Budva! I have stayed in the cheaper hotels and they were fine, but this is just the icing on the cake! After spending the day bike riding and hiking to come back and enjoy a glass of wine while looking out your ocean view window and then to top it all off...</p>
+                                        <span><b>Boris</b> - Saint Petersburg, Russia</span>
                                     </div>
                                 </div>
                                 <!-- END / ITEM -->
@@ -56,113 +53,14 @@ include "includes/header.php";
                                     <div class="guest-book_item guest-book_item-2">
                                         <span class="icon hillter-icon-quote-left"></span>
                                         <div class="avatar">
-                                            <img src="images/avatar/img-7.jpg" alt="">
+                                            <img src="images/avatar/img-3.jpg" alt="">
                                         </div>
                                         <h2>GOOD SERVICE</h2>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words</p>
-                                        <span><b>Jonatha Owens</b> - Sydney Australia</span>
+                                        <p>I love the gareden, and barbecue that you have, I will definitely come back to your place ! Budva is nice city, and all the  people are on a good mood !</p>
+                                        <span><b>Anke</b> - Mühldorf, Germany</span>
                                     </div>
                                 </div>
                                 <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-masonry col-xs-6 col-md-4">
-                                    <div class="guest-book_item guest-book_item-2">
-                                        <span class="icon hillter-icon-quote-left"></span>
-                                        <div class="avatar">
-                                            <img src="images/avatar/img-8.jpg" alt="">
-                                        </div>
-                                        <h2>Love the hotel</h2>
-                                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one</p>
-                                        <span><b>Jonatha Owens</b> - Sydney Australia</span>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-masonry col-xs-6 col-md-4">
-                                    <div class="guest-book_item guest-book_item-2">
-                                        <span class="icon hillter-icon-quote-left"></span>
-                                        <div class="avatar">
-                                            <img src="images/avatar/img-9.jpg" alt="">
-                                        </div>
-                                        <h2>I LIKE YOUR HOTTEL</h2>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words</p>
-                                        <span><b>Jonatha Owens</b> - Sydney Australia</span>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-masonry col-xs-6 col-md-4">
-                                    <div class="guest-book_item guest-book_item-2">
-                                        <span class="icon hillter-icon-quote-left"></span>
-                                        <div class="avatar">
-                                            <img src="images/avatar/img-10.jpg" alt="">
-                                        </div>
-                                        <h2>Love the hotel</h2>
-                                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one</p>
-                                        <span><b>Jonatha Owens</b> - Sydney Australia</span>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-masonry col-xs-6 col-md-4">
-                                    <div class="guest-book_item guest-book_item-2">
-                                        <span class="icon hillter-icon-quote-left"></span>
-                                        <div class="avatar">
-                                            <img src="images/avatar/img-14.jpg" alt="">
-                                        </div>
-                                        <h2>GOOD SERVICE</h2>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                                        <span><b>Jonatha Owens</b> - Sydney Australia</span>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-masonry col-xs-6 col-md-4">
-                                    <div class="guest-book_item guest-book_item-2">
-                                        <span class="icon hillter-icon-quote-left"></span>
-                                        <div class="avatar">
-                                            <img src="images/avatar/img-11.jpg" alt="">
-                                        </div>
-                                        <h2>BEST PRICE</h2>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing</p>
-                                        <span><b>Jonatha Owens</b> - Sydney Australia</span>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-masonry col-xs-6 col-md-4">
-                                    <div class="guest-book_item guest-book_item-2">
-                                        <span class="icon hillter-icon-quote-left"></span>
-                                        <div class="avatar">
-                                            <img src="images/avatar/img-13.jpg" alt="">
-                                        </div>
-                                        <h2>I WILL COME BACK</h2>
-                                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock</p>
-                                        <span><b>Jonatha Owens</b> - Sydney Australia</span>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-masonry col-xs-6 col-md-4">
-                                    <div class="guest-book_item guest-book_item-2">
-                                        <span class="icon hillter-icon-quote-left"></span>
-                                        <div class="avatar">
-                                            <img src="images/avatar/img-12.jpg" alt="">
-                                        </div>
-                                        <h2>BEST PRICE</h2>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
-                                        <span><b>Jonatha Owens</b> - Sydney Australia</span>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
                             </div>
                         </div>
 

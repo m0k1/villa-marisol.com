@@ -1,4 +1,5 @@
 <?php
+$page = "Guestbook";
 include "includes/header.php";
 ?>
 

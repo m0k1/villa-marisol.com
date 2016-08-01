@@ -39,6 +39,7 @@
                                 <h4 class="widget-title">&nbsp;</h4>
                                 <ul>
                                     <li><a href="budva.php">Budva</a></li>
+                                    <li><a href="guestbook.php">Guestbook</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>

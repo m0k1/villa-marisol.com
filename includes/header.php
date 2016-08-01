@@ -95,6 +95,7 @@
                             <li <?php if($page == "About"){ echo "class='current-menu-item'"; } ?>><a href="about.php">About</a></li>
                             <li <?php if($page == "Gallery"){ echo "class='current-menu-item'"; } ?>><a href="gallery.php">Gallery</a></li>
                             <li <?php if($page == "Budva"){ echo "class='current-menu-item'"; } ?>><a href="budva.php">Budva</a></li>
+                            <li <?php if($page == "Guestbook"){ echo "class='current-menu-item'"; } ?>><a href="guestbook.php">Guestbook</a></li>
                             <li <?php if($page == "Contact"){ echo "class='current-menu-item'"; } ?>><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>

@@ -168,20 +168,7 @@ function sendBooking() {
 	}
 
 	function p(t, a, n, i) {
-		e.ajax({
-			url: t,
-			type: "GET",
-			dataType: "html",
-			beforeSend: function() {
-				i && i()
-			}
-		}).done(function(t) {
-			e(a).html(t), n && n()
-		}).fail(function() {
-			console.log("error")
-		}).always(function() {
-			console.log("complete")
-		})
+		console.log("complete")
 	}
 
 	function h() {

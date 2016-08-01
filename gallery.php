@@ -217,6 +217,42 @@ include "includes/header.php";
                                     </div>
                                 </div>
                                 <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope ground suite dining">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/popup/img-20.jpg" class="mfp-image">
+                                            <img src="images/gallery/img-20.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope ground suite dining">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/popup/img-21.jpg" class="mfp-image">
+                                            <img src="images/gallery/img-21.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope ground suite dining">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/popup/img-22.jpg" class="mfp-image">
+                                            <img src="images/gallery/img-22.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope ground suite dining">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/popup/img-23.jpg" class="mfp-image">
+                                            <img src="images/gallery/img-23.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
                             </div>
                         </div>
 
